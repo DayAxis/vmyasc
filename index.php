@@ -2,7 +2,7 @@
 <html>
 
 <?php	 
-	$tituloPagina="Inicio | Víctor Montes y Asociados";
+	$tituloPagina="Index | Víctor Montes y Asociados";
   include_once ("includes/head.php"); 	  
  ?>
 
